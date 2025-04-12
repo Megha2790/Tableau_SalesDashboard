@@ -49,10 +49,10 @@ A Dark Mode / Light Mode switch is available (top-right corner).
 This UI enhancement ensures visual comfort across different environments and user preferences, while maintaining consistent data representation.
 
 ## 📌 Actionable Recommendations
-Replicate successful strategies used by top-performing managers in regions with underperformance.
+1. Replicate successful strategies used by top-performing managers in regions with underperformance.
 
-Investigate cost structures in low-profit states to improve margins.
+2. Investigate cost structures in low-profit states to improve margins.
 
-Target Consumer segments more aggressively—use seasonal trends to time promotions.
+3. Target Consumer segments more aggressively—use seasonal trends to time promotions.
 
-Maintain dual UI themes to accommodate broader usage in dashboards and reports.
+4. Maintain dual UI themes to accommodate broader usage in dashboards and reports.
